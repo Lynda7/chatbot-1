@@ -23,12 +23,10 @@ A modern, responsive conversational agent built with **Python**, **Streamlit**, 
 git clone https://github.com/Lynda7/chatbot-1.git
 
 ### 2.Install dependencies:
-```bash
 pip install -r requirements.txt
 
 ### 3.Configure your OPENAI_API_KEY in Streamlit Secrets.:
 Note: Create a .streamlit/secrets.toml file for local development.
 
 ### 4.Run the application:
-```bash
 Run the application
